@@ -47,7 +47,7 @@
     quick-tap-ms = <QUICK_TAP_MS>;
 };
 
-ZMK_CONDITIONAL_LAYER(FN NUM, SYS)  // FN + NUM --> SYS
+// ZMK_CONDITIONAL_LAYER(FN NUM, SYS)  // FN + NUM --> SYS
 
 
 /* Homerow mods */
