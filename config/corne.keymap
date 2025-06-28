@@ -9,7 +9,7 @@
 #define X_LB &kp (LG(D))
 #define X_LH &none
 
-#define X_RT &none
+#define X_RT &tog SYS
 #define X_RM &tog NAV
 #define X_RB &kp LG(LS(LA(R)))
 #define X_RH &none
