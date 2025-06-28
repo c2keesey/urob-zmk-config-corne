@@ -9,5 +9,8 @@ manifest:
       remote: urob
       revision: main
       import: app/west.yml
+    - name: zmk-nodefree-config
+      remote: urob
+      revision: main
   self:
     path: config
