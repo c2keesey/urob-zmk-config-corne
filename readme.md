@@ -1,3 +1,5 @@
+# [DEPRECATED] → https://github.com/c2keesey/zmk-config-corne-2
+---
 # C2K's fork of urob's zmk-config for corne 42
 *Work in progress. Keymap image below does not apply to this repo
 ### Noteable Mods
